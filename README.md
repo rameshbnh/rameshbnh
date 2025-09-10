@@ -1,4 +1,4 @@
-# 👨‍💻 Ramesh B N H – Embedded Software Developer
+# 👨‍💻 Ramesh Chaudhary – Embedded Software Developer
 
 Welcome to my GitHub! I am passionate about Embedded Systems, IoT, and Cloud Integration. With a strong foundation in C, C++, Python, and Embedded C, I design and develop robust solutions for modern electronic systems, integrating cutting-edge technologies and protocols.
 
